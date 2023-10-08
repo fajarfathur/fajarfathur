@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fajarfathurrohman@gmail.com**
 
-- ⚡ Fun fact **I am Single**
+- ⚡ Fun fact **I am Single and my waifu Tifa Lockhart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
