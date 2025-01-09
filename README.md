@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarott96&label=Profile%20views&color=0e75b6&style=flat" alt="kakarott96" /> </p>
 
-- 🔭 I’m currently study at **SMKN 11 Bandung**
+- 🔭 I’m currently study at **Universitas Teknologi Bandung**
 
 - 👨‍💻 All of my projects are available at [fajarfathur.my.id](fajarfathur.my.id)
 
