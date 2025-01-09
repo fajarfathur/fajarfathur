@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fajar Fathurrohman</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarott96&label=Profile%20views&color=0e75b6&style=flat" alt="kakarott96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarfathur&label=Profile%20views&color=0e75b6&style=flat" alt="kakarott96" /> </p>
 
 - 🔭 I’m currently study at **Universitas Teknologi Bandung**
 
