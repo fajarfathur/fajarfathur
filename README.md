@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Game or Anime**
 
-- 📫 How to reach me **fajarfathurrohman@gmail.com**
+- 📫 How to reach me **fajarfathurrohman965@gmail.com**
 
 - ⚡ Fun fact **my waifu Tifa Lockhart**
 
